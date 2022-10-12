@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="300"/>
   <div id="badges">
   <a href="https://www.facebook.com/renato.sormaniL">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
@@ -13,7 +13,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=RenSormani&style=flat-square&color=gray" alt=""/>
 <h1>
-  Well hello there!
+  Coffee it is then!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
