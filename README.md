@@ -18,3 +18,20 @@
 </h1>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me :
+I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+- :telescope: I have recently graduated from the _nology school of software development
+
+- :seedling: I love nothing more than proble solving and watching the germ of an idea blossom into something tangible via code
+
+- :zap: In my free time, I enjoy film, fitness and word puzzles... not to mention messing around in the world of code!
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/renato-sormani-87a56b68)
+
+
