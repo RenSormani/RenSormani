@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/vhVqGkxDYxAaRbOWVp/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" height="200"/>
   <div id="badges">
   <a href="https://www.facebook.com/renato.sormaniL">
     <img src="https://img.shields.io/badge/FaceBook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="FaceBook Badge"/>
@@ -13,7 +13,7 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=RenSormani&style=flat-square&color=gray" alt=""/>
 <h1>
-  Coffee it is then!
+  Welcome to my Github!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -25,7 +25,7 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
+Hi, I'm Renato and I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from the UK.
 - :telescope: I have recently graduated from the _nology school of software development
 
 - :seedling: I love nothing more than proble solving and watching the germ of an idea blossom into something tangible via code
